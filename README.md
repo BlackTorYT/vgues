@@ -1,3 +1,3 @@
 # vgues
-##Python
-## *Первый проект на Python*
+## Python
+## ***Первый проект на Python***
